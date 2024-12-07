@@ -1,4 +1,3 @@
-//your code here
 // script.js
 const images = document.querySelectorAll('.image');
 let draggedImage = null;
